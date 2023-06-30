@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+    <androidPackages>
+        <androidPackage spec="com.moloco.sdk.adapters:ironsource:1.2.3.0">
+        </androidPackage>
+    </androidPackages>
+    <iosPods>
+        <iosPod name="MolocoCustomAdapterIronSource" version="~>1.1.0">
+        </iosPod>
+    </iosPods>
+</dependencies>
